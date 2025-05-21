@@ -35,10 +35,6 @@ export function GamePreview() {
                 </li>
               ))}
             </ul>
-
-            <Button asChild size="lg" className="rounded-full">
-              <Link href="/luftkamp">Prøv Nå</Link>
-            </Button>
           </div>
 
           <Card className="overflow-hidden border-none shadow-xl">
